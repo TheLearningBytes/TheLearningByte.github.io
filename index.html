@@ -1,277 +1,124 @@
 <!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
+/* Add a gray background color with some padding */
+body {
+  font-family: Arial;
+  padding: 20px;
+  background: #f1f1f1;
+}
 
-  
-<html itemscope itemtype="https://schema.org/WebPage" class="no-js" lang="en">
+/* Header/Blog Title */
+.header {
+  padding: 30px;
+  font-size: 40px;
+  text-align: center;
+  background: white;
+}
 
-<head prefix="og: http://ogp.me/ns#"><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="siteBaseUrl" content="http://localhost:1313/">
-    <meta name="author" content="Lednerb">
-    <meta name="description" content="Bilberry Premium Theme for Hugo.">
-    <meta name="keywords" content="blog,personal,responsive,search,font awesome,pages,posts,multilingual,highlight.js,syntax highlighting,premium,shortcuts">
-    <meta name="generator" content="Hugo 0.139.4">
-    <title>
-        
-           
-               Hello World! This is the most epic subtitle ever. &vert; JO First Site
-           
-        
-    </title>
-    <meta itemprop="name" content="Hello World! This is the most epic subtitle ever.">
-    <meta itemprop="description" content="Bilberry Premium Theme for Hugo.">
-    <meta property="og:site_name" content="JO First Site">
+/* Create two unequal columns that floats next to each other */
+/* Left column */
+.leftcolumn {   
+  float: left;
+  width: 75%;
+}
 
-    <meta property="og:url" content="http://localhost:1313/">
-  <meta property="og:site_name" content="JO First Site">
-  <meta property="og:title" content="JO First Site">
-  <meta property="og:description" content="Bilberry Premium Theme for Hugo.">
-  <meta property="og:locale" content="en">
-  <meta property="og:type" content="website">
+/* Right column */
+.rightcolumn {
+  float: left;
+  width: 25%;
+  padding-left: 20px;
+}
 
+/* Fake image */
+.fakeimg {
+  background-color: #aaa;
+  width: 100%;
+  padding: 20px;
+}
 
-    
+/* Add a card effect for articles */
+.card {
+   background-color: white;
+   padding: 20px;
+   margin-top: 20px;
+}
 
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
 
-    <script src="/modernizr-simple.js"></script>
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
+}
 
-    
-    <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="JO First Site" />
-    <link href="http://localhost:1313/index.xml" rel="feed" type="application/rss+xml" title="JO First Site" />
-    
-
-
-    
-    <link rel="canonical" href="http://localhost:1313/">
-    
-
-    <link rel="stylesheet" href="http://localhost:1313/theme.css">
-
-    
-
-    
-        
-    
-
-    
+/* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+</style>
 </head>
+<body>
 
-<body class="bilberry-hugo-theme">
-    
-
-    
-    <nav>
-
-    <div class="container">
-        <ul class="topnav">
-            
-        </ul>
-
-        
-            <div id="search-box" class="search">
-                <i class="fas fa-search"></i>
-                <input id="search" type="text" placeholder="Search ...">
-            </div>
-        
-    </div>
-</nav>
-
-
-    
-    <header>
-
-    <div class="container">
-        <div class="logo">
-            <a href="/" class="logo">
-                
-                    
-                    
-                        
-                    
-                    <img src="https://seccdn.libravatar.org/avatar/88188b6cc451928eba90e8400bc68086?d=mm&size=200" alt="">
-                
-
-                <span class="overlay"><i class="fa fa-home"></i></span>
-            </a>
-        </div>
-        <div class="titles">
-            <h3 class="title">
-                <a href="/">
-                    JO First Site
-                </a>
-            </h3>
-
-            
-                <span class="subtitle">Hello World! This is the most epic subtitle ever.</span>
-            
-        </div>
-
-        <div class="languages">
-            
-                
-                
-                  
-                
-
-                
-                    <a href="/" class="active">en</a>
-                
-            
-                
-                
-                  
-                
-
-                
-                    <a href="/de/">de</a>
-                
-            
-            </div>
-        
-
-        
-            <div class="toggler">
-        
-                <i class="fa fa-bars" aria-hidden="true"></i>
-            </div>
-    </div>
-</header>
-
-
-    <div class="main container">
-        
-
-
-
-
-
-
-
-
-
-    
-
-
-
-
-    
-
-    
-
-    
-
-
-    </div>
-
-    
-<footer>
-    <div class="container">
-
-        
-        <div class="recent-posts">
-            <strong>Latest posts</strong>
-            <ul>
-                
-                
-            </ul>
-        </div>
-        
-
-        
-
-        <div class="right">
-            
-            <div class="external-profiles">
-                <strong>Social media</strong>
-                
-                <a href="https://twitter.com/TheRealLednerb" target="_blank" rel="me"><em class="fab fa-twitter"></em></a>
-                
-                <a href="https://github.com/Lednerb" target="_blank" rel=""><em class="fab fa-github"></em></a>
-                
-            </div>
-            
-
-            <div class="languages">
-                    <strong>Other languages</strong>
-                    
-                        
-                        
-                            
-                        
-
-                        
-                            <a href="/" class="active">en</a>
-                        
-                    
-                        
-                        
-                            
-                        
-
-                        
-                            <a href="/de/">de</a>
-                        
-                    
-                </div>
-            
-
-            
-            <div class="archive">
-                
-            </div>
-            
-        </div>
-    </div>
-</footer>
-
-
-<div class="credits">
-    <div class="container">
-        <div class="copyright">
-            <a href="https://github.com/Lednerb" target="_blank">
-                &copy;
-                
-                2025
-                
-                by Lednerb
-            </a>
-            -
-            <a href="http://localhost:1313/index.xml">rss</a>
-        </div>
-        <div class="author">
-            <a href="https://github.com/Lednerb/bilberry-hugo-theme"
-                target="_blank">Bilberry Hugo Theme</a>
-        </div>
-    </div>
+<div class="header">
+  <h2>Blog Name</h2>
 </div>
 
-
-    
-
-    
-    <script src="http://localhost:1313/theme.js"></script>
-    
-
-    
-    
-    
-
-    
-    <div id="activate-algolia-search" class="hidden">
-  <input type="hidden" id="algolia-search-appId" value="45CEN6X6AT">
-  <input type="hidden" id="algolia-search-apiKey" value="16030625f1a4d0dd3b8aefd794fd4cf1">
-  <input type="hidden" id="algolia-search-indexName" value="bilberry-hugo-theme">
-  <input type="hidden" id="algolia-search-noSearchResults" value="Nothing found.">
-
-  
-  <input type="hidden" id="algolia-search-currentLanguageOnly">
-  
+<div class="row">
+  <div class="leftcolumn">
+    <div class="card">
+      <h2>TITLE HEADING</h2>
+      <h5>Title description, Dec 7, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    </div>
+    <div class="card">
+      <h2>TITLE HEADING</h2>
+      <h5>Title description, Sep 2, 2017</h5>
+      <div class="fakeimg" style="height:200px;">Image</div>
+      <p>Some text..</p>
+      <p>Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco.</p>
+    </div>
+  </div>
+  <div class="rightcolumn">
+    <div class="card">
+      <h2>About Me</h2>
+      <div class="fakeimg" style="height:100px;">Image</div>
+      <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+    </div>
+    <div class="card">
+      <h3>Popular Post</h3>
+      <div class="fakeimg">Image</div><br>
+      <div class="fakeimg">Image</div><br>
+      <div class="fakeimg">Image</div>
+    </div>
+    <div class="card">
+      <h3>Follow Me</h3>
+      <p>Some text..</p>
+    </div>
+  </div>
 </div>
 
-    
+<div class="footer">
+  <h2>Footer</h2>
+</div>
 
-    
 </body>
-
 </html>
