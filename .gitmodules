@@ -1,3 +1,6 @@
 [submodule "thelearningbyte/themes/bilberry-hugo-theme"]
 	path = thelearningbyte/themes/bilberry-hugo-theme
 	url = https://github.com/TheLearningBytes/bilberry-hugo-theme.git
+[submodule "thelearningbyte/themes/lightbi-hugo"]
+	path = thelearningbyte/themes/lightbi-hugo
+	url = https://github.com/binokochumolvarghese/lightbi-hugo
