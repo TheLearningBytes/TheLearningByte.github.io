@@ -1,6 +1,7 @@
 baseURL ="https://Thelearningbyte.github.io/"
 # "https://lightbi-hugo-theme.netlify.app/"
 DefaultContentLanguage = "en"
+publishDir = "docs"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"
 title = "JO's TheLearningByte"
