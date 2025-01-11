@@ -1,4 +1,5 @@
-baseURL = "https://lightbi-hugo-theme.netlify.app/"
+baseURL ="https://Thelearningbyte.github.io/"
+# "https://lightbi-hugo-theme.netlify.app/"
 DefaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 languageCode = "en-us"
