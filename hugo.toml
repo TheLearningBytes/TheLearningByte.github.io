@@ -1,4 +1,5 @@
-baseURL ="https://Thelearningbyte.github.io/"
+#baseURL ="https://Thelearningbyte.github.io/"
+baseURL ="https://thelearningbyte.com/"
 # "https://lightbi-hugo-theme.netlify.app/"
 DefaultContentLanguage = "en"
 publishDir = "docs"
