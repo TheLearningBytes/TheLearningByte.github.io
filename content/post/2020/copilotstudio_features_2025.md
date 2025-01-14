@@ -2,7 +2,7 @@
 title: Copilot New Features in 2025
 date: 2025-01-14
 tags: ["hugo","blog"]
-image : "/img/posts/copilotstudiofeature.png"
+image : "/img/posts/copilotfeature.png"
 Description  : "In 2025, Microsoft Copilot Studio is introducing several new features to enhance the creation and management of autonomous AI agents. These updates include the ability to build agents that respond to events and complete workflows in the background, improving efficiency and automation. These features aim to simplify the creation, deployment, and management of AI agents, boosting productivity and collaboration."
 featured: true
 ---
