@@ -1,5 +1,5 @@
 ---
-title: Copilot New Features in 2025
+title: Tenant Isolation
 date: 2025-01-14
 tags: ["hugo","blog"]
 image : "/img/posts/copilotfeature.png"
@@ -7,7 +7,7 @@ Description  : "In 2025, Microsoft Copilot Studio is introducing several new fea
 featured: true
 ---
 
-Here are the key features of Microsoft Copilot Studio in 2025:
+How to acheive Tenant Isolation:
 Autonomous Agents: Build agents that respond to events and complete workflows in the background.
 Real-time Knowledge Connectors: Integrate with platforms like Salesforce and ZenDesk for real-time data access.
 Multilingual Voice-Enabled Agents: Create agents that interact in multiple languages and support voice responses.
