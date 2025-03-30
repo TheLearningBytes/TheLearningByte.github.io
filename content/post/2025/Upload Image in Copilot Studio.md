@@ -3,33 +3,20 @@ title: More about Lightbi
 date: 2025-03-23
 tags: ["blog"]
 image : "/img/posts/img-4.jpg"
-Description  : "Upload Image in Copilot Studio"
+Description  : "Demystifying Image Queries: The Power of Copilot Studio"
 ---
+Your agent can enable users to upload images, which it can subsequently analyze to generate relevant responses.
 
-## Wiki
-Upload Image in Copilot Studio
-Checkout the [wiki](https://github.com/binokochumolvarghese/lightbi-hugo/wiki) page for detailed documentation of the theme features.
+Ensuring best practices for prompt engineering is crucial when enabling users to upload images and your agent to generate responses based on them.
 
-## Support & Contribution
-
-- **Star 🌟 this [repository](https://github.com/binokochumolvarghese/lightbi-hugo)** to show your support!
-- **Help spread the word** about Hugo Lightbi by sharing it on social media and recommending it to your friends and colleagues.
-- **Found a bug?** Report it via [GitHub Issues](https://github.com/binokochumolvarghese/lightbi-hugo/issues/new) to help us improve.
-- **Have feature ideas?** Start a conversation in [GitHub Discussions](https://github.com/binokochumolvarghese/lightbi-hugo/discussions).
-- **Got questions?** Ask away in our [GitHub Discussions](https://github.com/binokochumolvarghese/lightbi-hugo/discussions) community.
-
-## Credits
-
-- [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) from which Lightbi was forked.
-- [Unsplash](https://unsplash.com/) for Images.
-
-## About
-
-This is an adaptation of the [Beautiful Hugo](https://github.com/halogenica/beautifulhugo) by [Michael Romero](https://github.com/halogenica). It supports most of the features of the original theme, and many new features. It has diverged from the original theme over time, with several updates.
-
-## License
-
-MIT Licensed, see [LICENSE](https://github.com/binokochumolvarghese/lightbi-hugo/blob/master/LICENSE).
+**To get the most out of this feature, review the following tips:**
+&spades; 	
 
 
-<!--Photo by Robert Katzki on Unsplash-->
+1. Upload images that are clear and high-quality. Agents might struggle to interpret grainy, poorly lit, or pixelated images.
+
+2. Only upload supported image file types, including JPG, PNG, WebP, or non-animated GIF files.
+
+3. If an image triggers content moderation filtering, restart the conversation. The agent uses the current conversation history to generate answers and continues to return content moderation filtering errors if objectionable content is part of the conversation history.
+
+4. Don't exceed a total of 15 MB for all uploaded images in a single conversation. Any images uploaded after the 15 MB limit can't be used to generate answers.

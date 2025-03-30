@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JO&#39;s TheLearningByte</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content on JO&#39;s TheLearningByte</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>jostwal@gmail.com (Jayshree Ostwal)</managingEditor>
+    <webMaster>jostwal@gmail.com (Jayshree Ostwal)</webMaster>
+    <lastBuildDate>Sun, 23 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More about Lightbi</title>
+      <link>http://localhost:1313/post/2025/upload-image-in-copilot-studio/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><author>jostwal@gmail.com (Jayshree Ostwal)</author>
+      <guid>http://localhost:1313/post/2025/upload-image-in-copilot-studio/</guid>
+      <description>&lt;p&gt;Your agent can enable users to upload images, which it can subsequently analyze to generate relevant responses.&lt;/p&gt;&#xA;&lt;p&gt;Ensuring best practices for prompt engineering is crucial when enabling users to upload images and your agent to generate responses based on them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tenant Isolation</title>
+      <link>http://localhost:1313/post/2025/tenantisolation/</link>
+      <pubDate>Sun, 23 Mar 2025 00:00:00 +0000</pubDate><author>jostwal@gmail.com (Jayshree Ostwal)</author>
+      <guid>http://localhost:1313/post/2025/tenantisolation/</guid>
+      <description>&lt;p&gt;Tenant Isolation&lt;/p&gt;&#xA;&lt;h2 id=&#34;wiki&#34;&gt;Wiki&lt;/h2&gt;&#xA;&lt;p&gt;Checkout the &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/wiki&#34;&gt;wiki&lt;/a&gt; page for detailed documentation of the theme features.&lt;/p&gt;&#xA;&lt;h2 id=&#34;support--contribution&#34;&gt;Support &amp;amp; Contribution&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Star 🌟 this &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo&#34;&gt;repository&lt;/a&gt;&lt;/strong&gt; to show your support!&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Help spread the word&lt;/strong&gt; about Hugo Lightbi by sharing it on social media and recommending it to your friends and colleagues.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Found a bug?&lt;/strong&gt; Report it via &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/issues/new&#34;&gt;GitHub Issues&lt;/a&gt; to help us improve.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Have feature ideas?&lt;/strong&gt; Start a conversation in &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/discussions&#34;&gt;GitHub Discussions&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Got questions?&lt;/strong&gt; Ask away in our &lt;a href=&#34;https://github.com/binokochumolvarghese/lightbi-hugo/discussions&#34;&gt;GitHub Discussions&lt;/a&gt; community.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/halogenica/beautifulhugo&#34;&gt;Beautiful Hugo&lt;/a&gt; from which Lightbi was forked.&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://unsplash.com/&#34;&gt;Unsplash&lt;/a&gt; for Images.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;about&#34;&gt;About&lt;/h2&gt;&#xA;&lt;p&gt;This is an adaptation of the &lt;a href=&#34;https://github.com/halogenica/beautifulhugo&#34;&gt;Beautiful Hugo&lt;/a&gt; by &lt;a href=&#34;https://github.com/halogenica&#34;&gt;Michael Romero&lt;/a&gt;. It supports most of the features of the original theme, and many new features. It has diverged from the original theme over time, with several updates.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Copilot New Features in 2025</title>
+      <link>http://localhost:1313/post/2025/copilotstudio_features_2025/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate><author>jostwal@gmail.com (Jayshree Ostwal)</author>
+      <guid>http://localhost:1313/post/2025/copilotstudio_features_2025/</guid>
+      <description>&lt;p&gt;Here are the key features of Microsoft Copilot Studio in 2025:&#xA;Autonomous Agents: Build agents that respond to events and complete workflows in the background.&#xA;Real-time Knowledge Connectors: Integrate with platforms like Salesforce and ZenDesk for real-time data access.&#xA;Multilingual Voice-Enabled Agents: Create agents that interact in multiple languages and support voice responses.&#xA;Improved Analytics: Enhanced analytics with detailed usage insights.&#xA;Enhanced UI and Accessibility: More intuitive interface for adding knowledge sources and configuring agents.&#xA;Security and Governance: Automatic security scans and data loss prevention policies.&#xA;Integration with Microsoft 365: Publish agents directly to Microsoft 365 apps, including SharePoint and Business Chat.&#xA;These features aim to simplify the creation, deployment, and management of AI agents, boosting productivity and collaboration.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Hugo Shortcodes</title>
+      <link>http://localhost:1313/post/2025/multilingual-copilot-agent/</link>
+      <pubDate>Thu, 30 Nov 2023 00:00:00 +0000</pubDate><author>jostwal@gmail.com (Jayshree Ostwal)</author>
+      <guid>http://localhost:1313/post/2025/multilingual-copilot-agent/</guid>
+      <description>&lt;p&gt;Multilingual Copilot Agent&#xA;Hugo shortcodes are powerful tools for adding custom HTML or other special content within Markdown files without complex code. They enable enhanced flexibility and are a core part of Hugo&amp;rsquo;s functionality, offering reusable snippets for embedding media, custom components, or dynamic content. Below, we’ll explore what shortcodes are and highlight some popular examples.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
