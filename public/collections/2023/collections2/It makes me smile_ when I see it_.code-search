@@ -1,0 +1,147 @@
+# Query: It makes me smile, when I see it.
+# ContextLines: 1
+
+29 results - 29 files
+
+layouts/partials/share-links.html:
+  72  
+  73: 
+
+public/collections/2023/collections/index.html:
+  420  
+  421: <p class="text-muted">It makes me smile, when I see it.</p>
+  422          </div>
+
+public/collections/2023/collections2/index.html:
+  420  
+  421: <p class="text-muted">It makes me smile, when I see it.</p>
+  422          </div>
+
+public/collections/2023/collections3/index.html:
+  420  
+  421: <p class="text-muted">It makes me smile, when I see it.</p>
+  422          </div>
+
+public/collections/2023/collections4/index.html:
+  420  
+  421: <p class="text-muted">It makes me smile, when I see it.</p>
+  422          </div>
+
+public/collections/2023/collections5/index.html:
+  420  
+  421: <p class="text-muted">It makes me smile, when I see it.</p>
+  422          </div>
+
+public/collections/2023/collections6/index.html:
+  420  
+  421: <p class="text-muted">It makes me smile, when I see it.</p>
+  422          </div>
+
+public/notes/2020/change/index.html:
+  367  
+  368: <p class="text-muted">It makes me smile, when I see it.</p>
+  369          </div>
+
+public/notes/2020/change2/index.html:
+  367  
+  368: <p class="text-muted">It makes me smile, when I see it.</p>
+  369          </div>
+
+public/notes/2020/change3/index.html:
+  367  
+  368:
+  369          </div>
+
+public/post/2025/copilotstudio_features_2025/index.html:
+  414  
+  415: <
+  416          </div>
+
+public/post/2025/multilingual-copilot-agent/index.html:
+  455  
+  456: 
+  457          </div>
+
+public/post/2025/tenantisolation/index.html:
+  422  
+  423: 
+  424          </div>
+
+public/post/2025/upload-image-in-copilot-studio/index.html:
+  419  
+  420: <!--<p class="text-muted">It makes me smile, when I see it.</p>-->
+  421          </div>
+
+public/posts/old/custom-shortcodes/index.html:
+  492  
+  493: <p class="text-muted">It makes me smile, when I see it.</p>
+  494          </div>
+
+public/posts/old/features-of-lightbi/index.html:
+  486  
+  487: <p class="text-muted">It makes me smile, when I see it.</p>
+  488          </div>
+
+public/posts/old/image-gallery/index.html:
+  497  
+  498: <p class="text-muted">It makes me smile, when I see it.</p>
+  499          </div>
+
+public/posts/old/install-hugo/index.html:
+  400  
+  401: <p class="text-muted">It makes me smile, when I see it.</p>
+  402          </div>
+
+public/posts/old/markdown/index.html:
+  380  
+  381: <p class="text-muted">It makes me smile, when I see it.</p>
+  382          </div>
+
+public/posts/old/more-about-lightbi/index.html:
+  389  
+  390: <p class="text-muted">It makes me smile, when I see it.</p>
+  391          </div>
+
+public/posts/old/netlify-configuration/index.html:
+  456  
+  457: <p class="text-muted">It makes me smile, when I see it.</p>
+  458          </div>
+
+public/posts/old/parameters/index.html:
+  474  
+  475: <p class="text-muted">It makes me smile, when I see it.</p>
+  476          </div>
+
+public/posts/old/syntax/index.html:
+  444  
+  445: <p class="text-muted">It makes me smile, when I see it.</p>
+  446          </div>
+
+public/posts/old/tenant-isolation/index.html:
+  382  
+  383: <p class="text-muted">It makes me smile, when I see it.</p>
+  384          </div>
+
+public/posts/old/test1/index.html:
+  371  
+  372: <p class="text-muted">It makes me smile, when I see it.</p>
+  373          </div>
+
+public/posts/old/understanding-hugo-shortcodes/index.html:
+  422  
+  423: <p class="text-muted">It makes me smile, when I see it.</p>
+  424          </div>
+
+public/posts/old/use-this-theme/index.html:
+  398  
+  399: <p class="text-muted">It makes me smile, when I see it.</p>
+  400          </div>
+
+public/posts/old/who-am-i/index.html:
+  379  
+  380: <p class="text-muted">It makes me smile, when I see it.</p>
+  381          </div>
+
+themes/lightbi-hugo/layouts/partials/share-links.html:
+  72  
+  73:<!-- <p class="text-muted">It makes me smile, when I see it.</p> -->
