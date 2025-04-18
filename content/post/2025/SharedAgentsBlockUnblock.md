@@ -24,7 +24,7 @@ Stay tuned and follow for more exciting features and updates!
 
 
 
-<!--Tenant Isolation
+Tenant Isolation
 ## Wiki
 
 Checkout the [wiki](https://github.com/binokochumolvarghese/lightbi-hugo/wiki) page for detailed documentation of the theme features.
@@ -51,4 +51,4 @@ This is an adaptation of the [Beautiful Hugo](https://github.com/halogenica/beau
 MIT Licensed, see [LICENSE](https://github.com/binokochumolvarghese/lightbi-hugo/blob/master/LICENSE).
 
 
-<!--Photo by Robert Katzki on Unsplash--> -->
+<!--Photo by Robert Katzki on Unsplash--> 

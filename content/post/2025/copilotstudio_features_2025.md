@@ -17,6 +17,3 @@ Security and Governance: Automatic security scans and data loss prevention polic
 Integration with Microsoft 365: Publish agents directly to Microsoft 365 apps, including SharePoint and Business Chat.
 These features aim to simplify the creation, deployment, and management of AI agents, boosting productivity and collaboration.
 
-Test
-
-Test 2025
