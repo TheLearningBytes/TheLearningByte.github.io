@@ -16,8 +16,6 @@ I will be demonstrating Copilot Studio's Image analysis feature for an Insurance
 * Testing The Agent's Image Analysis Feature
 * Conclusion
 
-
-
 **Why Should we Allow Image Input?**
 
 There are two primary scenarios where image input can be incredibly useful:
@@ -54,7 +52,8 @@ Enabling image input in your agent is straightforward:
 * Save your settings.
 * Publish the Agent.
 
-Testing The Agent's Image Analysis Feature
+**Testing The Agent's Image Analysis Feature**
+
 After enabling image input, it's crucial to test your agent's capabilities:
 
 Upload the image and verify the agent's responses as below.
