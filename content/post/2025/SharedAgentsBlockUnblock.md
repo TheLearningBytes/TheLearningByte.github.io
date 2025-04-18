@@ -18,7 +18,7 @@ Stay tuned and follow for more exciting features and updates!
 
 * Shared agents tab contains allagents created in Agent Builder andd eclarative agents created in Copilots Studio which are sharedand opened once
 * Blocking shared agents is a critical feature for ensuring security andcompliance. 
-* You can block agents thatare unsafe or no longer needed.If you need to restore access to a previously blocked agent, you can unblock it to allow users to use theagent again.
+* You can block agents thatare unsafe or no longer needed.If you need to restore access to a previously blocked agent, you can unblock it to allow users to use the agent again.
 
 
 

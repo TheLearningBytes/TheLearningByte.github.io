@@ -1,5 +1,5 @@
 ---
-title: Copilot New Features in 2025
+title: Key Copilot configuration settings
 date: 2025-01-14
 tags: ["hugo","blog"]
 image : "/img/posts/copilotfeature.png"
