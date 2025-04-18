@@ -51,4 +51,4 @@ This is an adaptation of the [Beautiful Hugo](https://github.com/halogenica/beau
 MIT Licensed, see [LICENSE](https://github.com/binokochumolvarghese/lightbi-hugo/blob/master/LICENSE).
 
 
-<!--Photo by Robert Katzki on Unsplash--> 
+

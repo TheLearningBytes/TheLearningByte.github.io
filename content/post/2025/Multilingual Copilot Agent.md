@@ -74,4 +74,4 @@ Using shortcodes in Hugo streamlines content creation and ensures consistency ac
 
 For more details, check out Hugo’s official [shortcode documentation](https://gohugo.io/content-management/shortcodes/).
 
-<!--Photo by Robert Katzki on Unsplash-->
+
