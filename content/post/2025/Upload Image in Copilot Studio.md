@@ -10,11 +10,11 @@ In today's digital age, the ability to analyse images is becoming increasingly i
 I will be demonstrating Copilot Studio's Image analysis feature for an Insurance company . I will be providing car accident images as in input to the agent , this agent will help insurance companies quickly assess damage and detect fraud, speeding up claim processing and improving accuracy. This leads to faster resolutions and better customer satisfaction.🚗📸
 
 Topics covered
-Why Should we Allow Image Input?
-Best Practices for Image Input
-Creating the Agent with Image Input
-Testing The Agent's Image Analysis Feature
-Conclusion
+* Why Should we Allow Image Input?
+* Best Practices for Image Input
+* Creating the Agent with Image Input
+* Testing The Agent's Image Analysis Feature
+* Conclusion
 
 
 
