@@ -1,5 +1,5 @@
 ---
-title: Revolutionising Insurance Claims: Speed, Accuracy, and Transparency with Copilot Studio
+title: Revolutionising Insurance Claims with Copilot Studio
 date: 2025-04-14
 tags: ["blog"]
 image : "/img/posts/blogimage1.jpg"
