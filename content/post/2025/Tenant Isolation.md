@@ -3,7 +3,7 @@ title: Tenant Isolation
 date: 2025-01-14
 tags: ["hugo","blog"]
 image : "/img/posts/copilotfeature.png"
-Description  : "In 2025, Microsoft Copilot Studio is introducing several new features to enhance the creation and management of autonomous AI agents. "
+Description  : "Tenant Isolation . "
 featured: true
 ---
 
