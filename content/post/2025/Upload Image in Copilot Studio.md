@@ -18,21 +18,24 @@ I will be demonstrating Copilot Studio's Image analysis feature for an Insurance
 
 
 
-**Why Should we Allow Image Input?**\n
+**Why Should we Allow Image Input?**
+
 There are two primary scenarios where image input can be incredibly useful:
 
 Questions requiring information from configured knowledge sources: Sometimes, users need answers that are best derived from visual data.
 Questions that can be answered from an image: For example, identifying objects, analyzing scenes, or extracting text from images.
 
-**Best Practices for Image Input**\n
+**Best Practices for Image Input**
+
 To get the most out of this feature, it's essential to follow some best practices:
 
 * Upload clear and high-quality images: Grainy or poorly lit images can be challenging for the agent to interpret.
 * Use supported image file types: JPG, PNG, WebP, and non-animated GIF files are supported.
 * Avoid exceeding the 15 MB limit: The agent can only process up to 15 MB of images in a single conversation.
 
-**Creating the Agent with Image Input**\n
-Enabling image input in your agent is straightforward:\n
+**Creating the Agent with Image Input**
+
+Enabling image input in your agent is straightforward:
 
 * Navigate to the Copilot Studio (https://copilotstudio.microsoft.com/).
 * After logging in Copilot Studio, you land on the Home page. Select Create in the left navigation.
