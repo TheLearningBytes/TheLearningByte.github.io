@@ -2,7 +2,7 @@
 title: Tenant Isolation
 date: 2025-01-14
 tags: ["hugo","blog"]
-image : "/img/posts/copilotfeature.png"
+image : "/img/posts/copilotfeature.jpg"
 Description  : "Tenant Isolation . "
 featured: true
 ---

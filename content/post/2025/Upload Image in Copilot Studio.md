@@ -2,11 +2,11 @@
 title: Revolutionising Insurance Claims with Copilot Studio
 date: 2025-04-14
 tags: ["blog"]
-image : "/img/posts/InsuraneClaim.png"
+image : "/img/posts/InsuraneClaim.jpg"
 Description  : "Speed, Accuracy, and Transparency with Copilot Studio"
 featured: true
 ---
-{{< figure src="/img/posts/InsuraneClaim.png" title="" >}}
+{{< figure src="/img/posts/InsuraneClaim.jpg" title="" >}}
 In today's digital age, the ability to analyse images is becoming increasingly important. Microsoft Copilot Studio offers a powerful feature that allows users to upload images and receive insightful responses based on those images. This capability opens up a world of possibilities for enhancing user interactions and providing more accurate and relevant information.
 
 I will be demonstrating Copilot Studio's Image analysis feature for an Insurance company . I will be providing car accident images as in input to the agent , this agent will help insurance companies quickly assess damage and detect fraud, speeding up claim processing and improving accuracy. This leads to faster resolutions and better customer satisfaction.🚗📸
