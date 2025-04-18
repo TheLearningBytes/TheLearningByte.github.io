@@ -1,9 +1,9 @@
 ---
-title: Copilot Studio Administration Series 1-Shared Copilot Agents -Block/Unblock
+title: Copilot Studio Administration Series-Shared Copilot Agents -Block/Unblock
 date: 2025-04-16
 tags: ["blog"]
 image : "/img/posts/img-4.jpg"
-Description  : "Shared Copilot Agents -Block/Unblock"
+Description  : "Shared Copilot Agents-Block/Unblock"
 ---
 🚀 **Introducing the Copilot Agent Administration Feature Series!** 🚀
 Dive into Essential Configurations, Reporting, and Monitoring Tips to enhance your Copilot experience.
@@ -13,7 +13,7 @@ Dive into Essential Configurations, Reporting, and Monitoring Tips to enhance yo
 3. Best practices for monitoring.
 Stay tuned and follow for more exciting features and updates!
 
-**Shared Copilot Agents -Block/Unblock**
+**Shared Copilot Agents-Block/Unblock**
 * Admins can see and manage all the agents for Microsoft 365 Copilot on the Integrated apps page in the Microsoft 365 admin center.
 
 * Shared agents tab contains allagents created in Agent Builder andd eclarative agents created in Copilots Studio which are sharedand opened once
