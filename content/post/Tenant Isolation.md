@@ -12,10 +12,10 @@ Configuring Copilot settings optimizes governance, security, and operational eff
 Tenant-level settings
 
 
-{{<table “table table-striped table-bordered”>}}		
+<!--{{<table "table table-striped table-bordered">}}		
 Setting	Purpose	Location Privilege
 Trial	License Control	Block
-{{</table>}}		
+{{</table>}}	-->	
 
 			
  	 free trial sign-ups without admin permission	Azure PowerShell	Azure PowerShell admin
