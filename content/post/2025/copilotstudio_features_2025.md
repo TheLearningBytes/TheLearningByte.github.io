@@ -1,5 +1,5 @@
 ---
-title: Key Copilot configuration settings
+title: Key Copilot Configuration Settings
 date: 2025-01-14
 tags: ["hugo","blog"]
 image : "/img/posts/copilotfeature.png"
