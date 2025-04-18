@@ -1,12 +1,30 @@
 ---
-title: Tenant Isolation
-date: 2025-03-23
+title: Copilot Studio Administration Series 1-Shared Copilot Agents -Block/Unblock
+date: 2025-04-16
 tags: ["blog"]
 image : "/img/posts/img-4.jpg"
-Description  : "Tenant Isolation"
+Description  : "Shared Copilot Agents -Block/Unblock"
 ---
+🚀 **Introducing the Copilot Agent Administration Feature Series!** 🚀
+Dive into Essential Configurations, Reporting, and Monitoring Tips to enhance your Copilot experience.
+🔧 What to Expect:
+1. Step-by-step guides on essential admin configurations.
+2. Pro tips for effective reporting.
+3. Best practices for monitoring.
+Stay tuned and follow for more exciting features and updates!
 
-Tenant Isolation
+**Shared Copilot Agents -Block/Unblock**
+* Admins can see and manage all the agents for Microsoft 365 Copilot on the Integrated apps page in the Microsoft 365 admin center.
+
+* Shared agents tab contains allagents created in Agent Builder andd eclarative agents created in Copilots Studio which are sharedand opened once
+* Blocking shared agents is a critical feature for ensuring security andcompliance. 
+* You can block agents thatare unsafe or no longer needed.If you need to restore access to a previously blocked agent, you can unblock it to allow users to use theagent again.
+
+
+
+
+
+<!--Tenant Isolation
 ## Wiki
 
 Checkout the [wiki](https://github.com/binokochumolvarghese/lightbi-hugo/wiki) page for detailed documentation of the theme features.
@@ -33,4 +51,4 @@ This is an adaptation of the [Beautiful Hugo](https://github.com/halogenica/beau
 MIT Licensed, see [LICENSE](https://github.com/binokochumolvarghese/lightbi-hugo/blob/master/LICENSE).
 
 
-<!--Photo by Robert Katzki on Unsplash-->
+<!--Photo by Robert Katzki on Unsplash--> -->
