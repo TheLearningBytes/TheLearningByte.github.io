@@ -1,6 +1,6 @@
 ---
 title: Multilingual Copilot Agent
-date: 2024-01-30
+date: 2025-01-30
 tags: ["shortcodes"]
 image : "/img/posts/img-8.jpg"
 Description  : "Multilingual Copilot Agent"
@@ -8,7 +8,7 @@ featured: true
 ---
 
 **Multilingual Copilot Agent**
-In today's globalized world, the need for effective communication across language barriers has become paramount. Microsoft's Copilot Studio has introduced a groundbreaking solution—a Multilingual Copilot Agent—that not only enhances user interactions but also bridges communication gaps for diverse audiences. This blog post delves into the features, benefits, and best practices for implementing a multilingual agent in Copilot Studio.
+In today's globalised world, the need for effective communication across language barriers has become paramount. Microsoft's Copilot Studio has introduced a groundbreaking solution—a Multilingual Copilot Agent—that not only enhances user interactions but also bridges communication gaps for diverse audiences. This blog post delves into the features, benefits, and best practices for implementing a multilingual agent in Copilot Studio.
 
 **Introduction to Multilingual Copilot Agents**
 
@@ -20,7 +20,7 @@ Microsoft.
 
 **Multiple Language Support**: The Copilot Studio allows agents to communicate in multiple languages, which is particularly beneficial for organisations operating in diverse markets. You can add as many secondary languages as needed, expanding your reach and effectiveness.
 
-**Localisation Management**: Copilot Studio provides an easy approach to managing localization for your multilingual agents. Initially, you define a primary language, and as your content expands, you can upload translations for various secondary languages. This ensures that all user-facing content is appropriately localised.
+**Localisation Management**: Copilot Studio provides an easy approach to managing localisation for your multilingual agents. Initially, you define a primary language, and as your content expands, you can upload translations for various secondary languages. This ensures that all user-facing content is appropriately localised.
 
 **Dynamic Language Switching**: One of the standout features of multilingual agents is the ability to change languages during conversation. This capability allows for flexibility in user interactions, adapting based on real-time user inputs.
 

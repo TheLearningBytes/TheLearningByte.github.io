@@ -6,7 +6,8 @@ image : "/img/posts/img-4.jpg"
 Description  : "Shared Copilot Agents-Block/Unblock"
 featured: true
 ---
-🚀 **Introducing the Copilot Agent Administration Feature Series!** 🚀
+🚀 **The Copilot Agent Administration Feature Series!** 🚀
+
 Dive into Essential Configurations, Reporting, and Monitoring Tips to enhance your Copilot experience.
 🔧 What to Expect:
 1. Step-by-step guides on essential admin configurations.
