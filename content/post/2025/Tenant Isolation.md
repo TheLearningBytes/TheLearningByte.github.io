@@ -1,5 +1,5 @@
 ---
-title: Tenant Isolation1
+title: Tenant Isolation
 date: 2025-01-14
 tags: ["hugo","blog"]
 image : "/img/posts/copilotfeature.png"
@@ -16,9 +16,7 @@ Tenant-level settings
 Setting	Purpose	Location Privilege
 Trial	License Control	Block
 {{</table>}}	-->	
-
-			
- 	 free trial sign-ups without admin permission	Azure PowerShell	Azure PowerShell admin
+free trial sign-ups without admin permission	Azure PowerShell	Azure PowerShell admin
 Control agents with AI Features	Block generative AI usage in Copilot agents	PPAC > Settings	Power Platform admin
 Copilot Studio authors control	Restrict Copilot Studio usage to a security group	PPAC > Settings	Power Platform admin
 Set up environment routing	Route makers to specific environment groups	PPAC > Settings	Power Platform admin
@@ -26,7 +24,7 @@ AI Builder credits control	Decide if tenant-level AI credits can be used by envi
 Copilot data collection	Enable or block sharing prompts/requests with Microsoft	PPAC > Settings	Power Platform admin
 Copilot feedback control	Enable or block feedback to Microsoft	PPAC > Settings	Power Platform admin
 Tenant or environment-level settings (via DLP policies or capacity)
-Setting [Name]	Purpose	Location	Privilege
+Setting Purpose	Location	Privilege
 Message capacity	Allocate Copilot message capacity to each environment	PPAC > Capacity	Power Platform admin
 Telemetry logging / AppInsights control
 [Application insights in Copilot Studio]	Block agent makers from connecting to Application Insights	PPAC > DLP Policies	Power Platform admin
@@ -44,7 +42,7 @@ Knowledge source control
 Skills control
 [Skills with Copilot Studio]	Block Copilot makers from using skills in Copilot Studio	PPAC > DLP Policies	Power Platform admin
 HTTP requests control
-[HTTP]	Prevent HTTP requests to reduce data exfiltration risk	PPAC > DLP Policies	Power Platform admin
+Prevent HTTP requests to reduce data exfiltration risk	PPAC > DLP Policies	Power Platform admin
 Event triggers control (Autonomous)
 [Microsoft Copilot Studio]	Block autonomous/event-driven agent triggers	PPAC > DLP Policies	Power Platform admin
 Environment-level settings
