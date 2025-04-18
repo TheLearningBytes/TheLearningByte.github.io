@@ -33,7 +33,7 @@ Avoid exceeding the 15 MB limit: The agent can only process up to 15 MB of image
 
 Creating the Agent with Image Input
 Enabling image input in your agent is straightforward:
-![Copilot Studio](/img/posts/uploadblogimage2.jpg "Copilot Studio")
+ {{< figure src="/img/posts/uploadblogimage2.jpg" title="Sample Image1" >}}
 
 
 Navigate to the Copilot Studio (https://copilotstudio.microsoft.com/).
