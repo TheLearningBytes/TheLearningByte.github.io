@@ -4,6 +4,7 @@ date: 2025-04-16
 tags: ["blog"]
 image : "/img/posts/img-4.jpg"
 Description  : "Shared Copilot Agents-Block/Unblock"
+featured: true
 ---
 🚀 **Introducing the Copilot Agent Administration Feature Series!** 🚀
 Dive into Essential Configurations, Reporting, and Monitoring Tips to enhance your Copilot experience.

@@ -7,7 +7,7 @@ Description  : "Key features of Microsoft Copilot Studio in 2025. "
 featured: true
 ---
 
-**In this edition,lets cover new Microsoft Copilot Studio features released in February 2025: **
+**In this edition,lets cover new Microsoft Copilot Studio features released in February 2025:**
 
 1. Publish custom agents to Microsoft 365 Copilot Chat
 2. Add enterprise data with new Microsoft Graph connectors 
@@ -21,5 +21,7 @@ featured: true
 10. Enhanced UI and Accessibility: More intuitive interface for adding knowledge sources and configuring agents.
 11. Security and Governance: Automatic security scans and data loss prevention policies.
 12. Integration with Microsoft 365: Publish agents directly to Microsoft 365 apps, including SharePoint and Business Chat.
+
+
 These features aim to simplify the creation, deployment, and management of AI agents, boosting productivity and collaboration.
 
