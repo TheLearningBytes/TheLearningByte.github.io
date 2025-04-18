@@ -1,3 +1,4 @@
+---
 title: Revolutionising Insurance Claims: Speed, Accuracy, and Transparency with Copilot Studio
 date: 2025-04-14
 tags: ["blog"]
@@ -9,11 +10,11 @@ In today's digital age, the ability to analyse images is becoming increasingly i
 I will be demonstrating Copilot Studio's Image analysis feature for an Insurance company. I will be providing car accident images as in input to the agent , this agent will help insurance companies quickly assess damage and detect fraud, speeding up claim processing and improving accuracy. This leads to faster resolutions and better customer satisfaction.🚗📸
 
 Topics covered
-Why Should we Allow Image Input?
-Best Practices for Image Input
-Creating the Agent with Image Input
-Testing The Agent's Image Analysis Feature
-Conclusion
+* Why Should we Allow Image Input?
+* Best Practices for Image Input
+* Creating the Agent with Image Input
+* Testing The Agent's Image Analysis Feature
+* Conclusion
 
 
 
@@ -32,7 +33,9 @@ Avoid exceeding the 15 MB limit: The agent can only process up to 15 MB of image
 
 Creating the Agent with Image Input
 Enabling image input in your agent is straightforward:
-image : "/img/posts/uploadblogimage2.jpg"
+![Copilot Studio](/img/posts/uploadblogimage2.jpg "Copilot Studio")
+
+
 Navigate to the Copilot Studio (https://copilotstudio.microsoft.com/).
 After logging in Copilot Studio, you land on the Home page. Select Create in the left navigation.
  Select New agent.
