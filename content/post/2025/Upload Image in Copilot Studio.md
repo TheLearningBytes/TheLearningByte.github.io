@@ -40,12 +40,14 @@ After logging in Copilot Studio, you land on the Home page. Select Create in the
 Use the chat to describe your agent, using the provided questions for guidance.
 Keep your description simple for now, but make sure you include information about what your agent helps users do and what conversation style and tone it uses. Copilot Studio uses your responses to fill in the details in name, description, instructions, and knowledge that define your agent.
 
-Article content
+{{< figure src="/img/posts/uploadblogimage2.jpg" title="Sample Image" >}}
+
 Navigate to the Settings page for your agent.
 Select Generative AI and Choose your preferred level of strictness for content moderation.
 Toggle on the Image input.
 
-Article content
+{{< figure src="/img/posts/uploadimage3.jpg" title="Sample Image" >}}
+
 Save your settings.
 Publish the Agent.
 
@@ -54,8 +56,9 @@ After enabling image input, it's crucial to test your agent's capabilities:
 
 Upload the image and verify the agent's responses as below.
 
-Article content
-Article content
+{{< figure src="/img/posts/uploadimage4.jpg" title="Sample Image" >}}
+{{< figure src="/img/posts/uploadimage5.jpg" title="Sample Image" >}}
+
 Ensure accuracy by using different queries and images to validate the agent's performance.
 You can publish this agent across various channels.
 
