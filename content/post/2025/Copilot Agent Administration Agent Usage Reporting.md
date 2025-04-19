@@ -7,23 +7,15 @@ Description  : "Copilot Agent Administration Agent Usage Reporting"
 featured: true
 ---
 🚀 **The Copilot Agent Administration Feature Series!** 🚀
+Agent Usage Reporting InMicrosoft 365 Copilot
 
-Agent Admin Approval Agent authors can publish their agents created in Copilot Studio or Teams Toolkit to tenant's app catalog.
- Admins need to approve/reject publishing which can be done in Microsoft 365 Admin Center >Integrated AppsTeams Admin Center > Manage Apps Publishing new version of the agent also requires admin approval.
-**Microsoft 365 Admin Center:**
-![alt text](image-1.png)
+This report is to see the usage ofagents in your organisation.This report includes agents that are approved by an admin and agents created via agent builder and shared with users in your organisation.
 
-Admins can review agent metadata before making agents available with Approve action.
-When an agent is submitted for admin approval, all metadata about agent definition is provided on app details tab in Microsoft 365 Admin Center > Integrated apps to equip.
-M365 admin with all information about the agent, including capabilities, data sources,
-and custom actions that the agent can invoke.
+An active user of an agent is a userwho sends a prompt request to anagent and receives a response.
+Due to system limitations, currentlythe Agents details table displaysonly admin-approved agents.
+In the M365 admin center, go to Reports> Usage.
+Select the Microsoft 365 Copilot page.
+Select the Agents tab to view adoptionand usage metrics.
 
-**Teams Admin Center:** 
-
-Admins can Approve/Reject publishing of the agents in Teams Admin Center.
-![alt text](image.png)
-Information about the agent, capabilities, data sources, and custom actions are not available yet in Teams Admin Center.
-After agent has been approved and published, admins have following controls in Microsoft 365 and Teams Admin Centers. 
-1. Define who can access the agent.
-2. Deploy app to target audience.
-3. Block the agent.
+Microsoft 365 reports in the admin center –
+Agent usage in Microsoft 365 Copilot

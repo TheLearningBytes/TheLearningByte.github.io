@@ -8,23 +8,27 @@ featured: true
 ---
 🚀 **The Copilot Agent Administration Feature Series!** 🚀
 
-Agent Admin Approval Agent authors can publish their agents created in Copilot Studio or Teams Toolkit to tenant's app catalog.
- Admins need to approve/reject publishing which can be done in Microsoft 365 Admin Center >Integrated AppsTeams Admin Center > Manage Apps Publishing new version of the agent also requires admin approval.
- 
-**Microsoft 365 Admin Center:**
-![alt text](image-1.png)
 
-Admins can review agent metadata before making agents available with Approve action.
-When an agent is submitted for admin approval, all metadata about agent definition is provided on app details tab in Microsoft 365 Admin Center > Integrated apps to equip.
-M365 admin with all information about the agent, including capabilities, data sources,
-and custom actions that the agent can invoke.
+GData Loss Prevention(DLP) PolicyData Loss Prevention (DLP) policies in PowerPlatform provides a way to control which PowerPlatform and Custom Connectors are allowed to beused in Power Platform environment level.
 
-**Teams Admin Center:** 
+Copilot Studio connectors can be classified 
+within a DLP policy under the following datagroups, which are presented in the Power Platformadmin center when reviewing DLP policies:
+Business
+Non-business
+Blocked
+You can use the connectors in DLP policies toprotect your organisation's data from any malicious or 
+unintentional data exfiltration by your agentmakers.
 
-Admins can Approve/Reject publishing of the agents in Teams Admin Center.
-![alt text](image.png)
-Information about the agent, capabilities, data sources, and custom actions are not available yet in Teams Admin Center.
-After agent has been approved and published, admins have following controls in Microsoft 365 and Teams Admin Centers. 
-1. Define who can access the agent.
-2. Deploy app to target audience.
-3. Block the agent.
+You can configure DLP policies in the Power
+Platform admin center to block any of the
+following Copilot Studio connectors.
+
+
+In early 2025, DLP policy enforcement for all tenants is set to Enabled by default.
+
+Agent can use custom Connectors as well as Power Automate flows as actions (preview)
+With Power Platform Data Loss Prevention policies, admins can control which connectors are allowed to be used in agent actions and flows.
+Policy can be applied to required environments.
+Applies for both declarative and custom engine agents.
+
+

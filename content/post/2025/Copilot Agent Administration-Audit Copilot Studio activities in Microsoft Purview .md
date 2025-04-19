@@ -8,22 +8,18 @@ featured: true
 ---
 🚀 **The Copilot Agent Administration Feature Series!** 🚀
 
-Agent Admin Approval Agent authors can publish their agents created in Copilot Studio or Teams Toolkit to tenant's app catalog.
- Admins need to approve/reject publishing which can be done in Microsoft 365 Admin Center >Integrated AppsTeams Admin Center > Manage Apps Publishing new version of the agent also requires admin approval.
-**Microsoft 365 Admin Center:**
-![alt text](image-1.png)
 
-Admins can review agent metadata before making agents available with Approve action.
-When an agent is submitted for admin approval, all metadata about agent definition is provided on app details tab in Microsoft 365 Admin Center > Integrated apps to equip.
-M365 admin with all information about the agent, including capabilities, data sources,
-and custom actions that the agent can invoke.
+Audit Copilot Studio activities in Microsoft Purview
+Copilot Studio logs activities related to both administrative and maker and user interactions with agents.
 
-**Teams Admin Center:** 
+Administrative activities for Copilot Studio are nabled by default on all tenants. You can't disable activity collection, but you can disable the
+audit logs in Purview and use retention policies to prevent the retention of user message text and
+response text.
 
-Admins can Approve/Reject publishing of the agents in Teams Admin Center.
-![alt text](image.png)
-Information about the agent, capabilities, data sources, and custom actions are not available yet in Teams Admin Center.
-After agent has been approved and published, admins have following controls in Microsoft 365 and Teams Admin Centers. 
-1. Define who can access the agent.
-2. Deploy app to target audience.
-3. Block the agent.
+* How to Access the logs 
+        Sign in to the Microsoft Purviewcompliance portal as a tenantadmin.In the left menu, select Show all.
+
+Under Solutions, select Audit.Admins can filter for Copilot Studio activities in the Activities list. 
+Activities are mapped to event types and categories.
+
+Audit Copilot Studio activities in Microsoft Purview

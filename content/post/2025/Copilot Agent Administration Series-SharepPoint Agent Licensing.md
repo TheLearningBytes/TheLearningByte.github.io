@@ -8,22 +8,13 @@ featured: true
 ---
 🚀 **The Copilot Agent Administration Feature Series!** 🚀
 
-Agent Admin Approval Agent authors can publish their agents created in Copilot Studio or Teams Toolkit to tenant's app catalog.
- Admins need to approve/reject publishing which can be done in Microsoft 365 Admin Center >Integrated AppsTeams Admin Center > Manage Apps Publishing new version of the agent also requires admin approval.
-**Microsoft 365 Admin Center:**
-![alt text](image-1.png)
+SharePoint Agent Licensing From January 6, 2025, to June 30,2025, enterprise tenants with 50 or more
+Microsoft 365 Copilot licenses will receive 10,000 free Agents in SharePoint queries for unlicensed users every month as a trial. 
 
-Admins can review agent metadata before making agents available with Approve action.
-When an agent is submitted for admin approval, all metadata about agent definition is provided on app details tab in Microsoft 365 Admin Center > Integrated apps to equip.
-M365 admin with all information about the agent, including capabilities, data sources,
-and custom actions that the agent can invoke.
-
-**Teams Admin Center:** 
-
-Admins can Approve/Reject publishing of the agents in Teams Admin Center.
-![alt text](image.png)
-Information about the agent, capabilities, data sources, and custom actions are not available yet in Teams Admin Center.
-After agent has been approved and published, admins have following controls in Microsoft 365 and Teams Admin Centers. 
-1. Define who can access the agent.
-2. Deploy app to target audience.
-3. Block the agent.
+Users without Microsoft 365 Copilot license can create and access agents Trial is enabled by default, but admins can disable if needed using Set-SPOCopiIotPromoOptInStatusPowerSheII command
+SharePoint Agent Licensing -There are 2 types of SharePoint Agent Licensing Microsoft 365 Copilot Licensed users : No additional cost to consume, create and consume agents.
+1. Microsoft 365 Copilot Non-licensedusers : This will use pay-as-you-gomessage-based billing to consume SharePoint agents.
+2. Configure SharePoint Agent Consumption Meter Admins need to configure Agents for SharePoint pay-as-you-go service if users(without M365 Copilot license) need to be able to create agents for SharePoint.In Microsoft 365 Admin Center go toSettings > Org Settings > Pay-as-you-go services.
+Requires Azure subscription wit hresource group created for the billingp lan.
+Select Azure subscription, ResourceGroup and Region.
+Configure SharePoint Agent Consumption Meter.

@@ -8,22 +8,19 @@ featured: true
 ---
 🚀 **The Copilot Agent Administration Feature Series!** 🚀
 
-Agent Admin Approval Agent authors can publish their agents created in Copilot Studio or Teams Toolkit to tenant's app catalog.
- Admins need to approve/reject publishing which can be done in Microsoft 365 Admin Center >Integrated AppsTeams Admin Center > Manage Apps Publishing new version of the agent also requires admin approval.
-**Microsoft 365 Admin Center:**
-![alt text](image-1.png)
 
-Admins can review agent metadata before making agents available with Approve action.
-When an agent is submitted for admin approval, all metadata about agent definition is provided on app details tab in Microsoft 365 Admin Center > Integrated apps to equip.
-M365 admin with all information about the agent, including capabilities, data sources,
-and custom actions that the agent can invoke.
+Publish bots with Al features
+Allow Copilot authors to publish from Copilot Studio when Al features are enabled.
+* Disable AI agent publishing in tenant level.
+* If disabled,users can still create agents but not publish 
+* Applies to both declarative and custom engine agents
 
-**Teams Admin Center:** 
+Power Platform Admin Center → Settings → Publishbots with AI features
+Move data across regions for Copilots and generative AI features
+Copilots and generative AI features that are generally available are turned on by default. 
+However, you mightneed to allow data movement across regions to use all Copilot and generative AI features.
 
-Admins can Approve/Reject publishing of the agents in Teams Admin Center.
-![alt text](image.png)
-Information about the agent, capabilities, data sources, and custom actions are not available yet in Teams Admin Center.
-After agent has been approved and published, admins have following controls in Microsoft 365 and Teams Admin Centers. 
-1. Define who can access the agent.
-2. Deploy app to target audience.
-3. Block the agent.
+If you don't allow data movement across regions, that doesn't turn off all Copilots and generative AI features.
+Copilots and generative AI features are allowed as capacity is made available in the region.
+
+Certain generative AI features are powered by Microsoft 365 services and store data according to Microsoft 365 terms and data residency commitments.
