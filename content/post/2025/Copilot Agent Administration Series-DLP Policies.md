@@ -10,6 +10,7 @@ featured: true
 
 Agent Admin Approval Agent authors can publish their agents created in Copilot Studio or Teams Toolkit to tenant's app catalog.
  Admins need to approve/reject publishing which can be done in Microsoft 365 Admin Center >Integrated AppsTeams Admin Center > Manage Apps Publishing new version of the agent also requires admin approval.
+ 
 **Microsoft 365 Admin Center:**
 ![alt text](image-1.png)
 

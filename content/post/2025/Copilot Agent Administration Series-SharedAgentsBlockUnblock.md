@@ -1,9 +1,9 @@
 ---
-title: Copilot Studio Administration Series-Shared Copilot Agents -Block/Unblock
+title: Copilot Studio Administration Series-Block/Unblock Shared Copilot Agents
 date: 2025-04-16
 tags: ["blog"]
 image : "/img/posts/img-4.jpg"
-Description  : "Shared Copilot Agents-Block/Unblock"
+Description  : "Block/Unblock Shared Copilot Agents"
 featured: true
 ---
 🚀 **The Copilot Agent Administration Feature Series!** 🚀
