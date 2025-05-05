@@ -1,8 +1,8 @@
 ---
 title: Copilot Agent Administration Agent Usage Reporting
-date: 2025-0-16
+date: 2025-03-16
 tags: ["blog"]
-image : "/img/posts/img-4.jpg"
+image : "/img/posts/AgentReporting.jpg"
 Description  : "Copilot Agent Administration Agent Usage Reporting"
 featured: true
 ---
